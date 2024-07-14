@@ -1,0 +1,210 @@
+:Monkey: seed=1721166171824 count=1500
+:AllowPackage: zahleb.me
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: -0.0%
+//   6: 25.0%
+//   7: 15.0%
+//   8: 2.0%
+//   9: 2.0%
+//   10: 1.0%
+//   11: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=zahleb.me/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=zahleb.me/.MainActivity } in package zahleb.me
+:Sending Touch (ACTION_DOWN): 0:(425.0,1850.0)
+:Sending Touch (ACTION_UP): 0:(427.8417,1863.078)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(40.0,1916.0)
+:Sending Touch (ACTION_UP): 0:(43.650757,1920.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(479.0,1392.0)
+:Sending Touch (ACTION_UP): 0:(487.92728,1404.5398)
+:Sending Touch (ACTION_DOWN): 0:(605.0,479.0)
+:Sending Touch (ACTION_UP): 0:(613.82336,474.98145)
+:Sending Touch (ACTION_DOWN): 0:(150.0,1015.0)
+:Sending Touch (ACTION_UP): 0:(131.92117,1023.3541)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+    //[calendar_time:2024-07-14 16:08:43.406  system_uptime:2611379]
+    // Sending event #100
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(685.0,307.0)
+:Sending Touch (ACTION_UP): 0:(751.1529,290.85263)
+:Sending Touch (ACTION_DOWN): 0:(544.0,1541.0)
+:Sending Touch (ACTION_UP): 0:(534.9178,1538.2211)
+:Sending Touch (ACTION_DOWN): 0:(536.0,918.0)
+:Sending Touch (ACTION_UP): 0:(535.47833,931.64294)
+:Sending Touch (ACTION_DOWN): 0:(172.0,86.0)
+:Sending Touch (ACTION_UP): 0:(119.60986,106.242035)
+:Sending Touch (ACTION_DOWN): 0:(641.0,424.0)
+:Sending Touch (ACTION_UP): 0:(636.1602,422.83508)
+:Sending Touch (ACTION_DOWN): 0:(706.0,1337.0)
+:Sending Touch (ACTION_UP): 0:(754.61536,1376.2476)
+:Sending Touch (ACTION_DOWN): 0:(360.0,453.0)
+:Sending Touch (ACTION_UP): 0:(378.19366,451.6332)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(89.0,1477.0)
+:Sending Touch (ACTION_UP): 0:(80.91046,1475.3635)
+    //[calendar_time:2024-07-14 16:08:46.982  system_uptime:2614955]
+    // Sending event #200
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(391.0,1270.0)
+:Sending Touch (ACTION_UP): 0:(377.65024,1270.6816)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=zahleb.me/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=zahleb.me/.MainActivity } in package zahleb.me
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=zahleb.me/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=zahleb.me/.MainActivity } in package zahleb.me
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(96.0,437.0)
+:Sending Touch (ACTION_UP): 0:(28.00895,440.73465)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(188.0,569.0)
+:Sending Touch (ACTION_UP): 0:(199.96692,568.55286)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(274.0,106.0)
+:Sending Touch (ACTION_UP): 0:(395.25958,241.118)
+    //[calendar_time:2024-07-14 16:08:48.848  system_uptime:2616821]
+    // Sending event #300
+    //[calendar_time:2024-07-14 16:08:49.001  system_uptime:2616973]
+    // Sending event #300
+:Sending Touch (ACTION_DOWN): 0:(131.0,1894.0)
+:Sending Touch (ACTION_UP): 0:(206.30046,1860.6794)
+:Sending Touch (ACTION_DOWN): 0:(429.0,1498.0)
+:Sending Touch (ACTION_UP): 0:(429.40085,1498.6617)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(1015.0,1110.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,977.5813)
+:Sending Touch (ACTION_DOWN): 0:(708.0,513.0)
+:Sending Touch (ACTION_UP): 0:(781.93396,480.1911)
+:Sending Touch (ACTION_DOWN): 0:(92.0,1284.0)
+:Sending Touch (ACTION_UP): 0:(67.87383,1304.3741)
+:Sending Touch (ACTION_DOWN): 0:(483.0,1543.0)
+:Sending Touch (ACTION_UP): 0:(490.7226,1538.5676)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(1029.0,749.0)
+:Sending Touch (ACTION_UP): 0:(1027.1844,746.26666)
+:Sending Touch (ACTION_DOWN): 0:(967.0,1378.0)
+:Sending Touch (ACTION_UP): 0:(963.4983,1378.3801)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+    //[calendar_time:2024-07-14 16:08:51.944  system_uptime:2619917]
+    // Sending event #400
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(528.0,802.0)
+:Sending Touch (ACTION_UP): 0:(521.9481,772.2824)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher3/.launcher3.Launcher } in package com.android.launcher3
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(306.0,805.0)
+    //[calendar_time:2024-07-14 16:08:54.317  system_uptime:2622290]
+    // Sending event #500
+:Sending Touch (ACTION_UP): 0:(218.0957,770.92474)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(334.0,1145.0)
+:Sending Touch (ACTION_UP): 0:(330.49106,1140.7585)
+:Sending Touch (ACTION_DOWN): 0:(418.0,589.0)
+:Sending Touch (ACTION_UP): 0:(422.42685,572.589)
+:Sending Touch (ACTION_DOWN): 0:(624.0,1869.0)
+:Sending Touch (ACTION_UP): 0:(581.7944,1869.4928)
+:Sending Touch (ACTION_DOWN): 0:(216.0,215.0)
+:Sending Touch (ACTION_UP): 0:(206.22691,216.28395)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(204.0,723.0)
+:Sending Touch (ACTION_UP): 0:(204.00362,733.2742)
+:Sending Touch (ACTION_DOWN): 0:(763.0,1237.0)
+:Sending Touch (ACTION_UP): 0:(890.8534,1308.734)
+    //[calendar_time:2024-07-14 16:08:58.766  system_uptime:2626738]
+    // Sending event #600
+    //[calendar_time:2024-07-14 16:08:58.917  system_uptime:2626890]
+    // Sending event #600
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(437.0,1243.0)
+:Sending Touch (ACTION_UP): 0:(435.89023,1231.4065)
+:Sending Touch (ACTION_DOWN): 0:(683.0,1620.0)
+:Sending Touch (ACTION_UP): 0:(684.3713,1597.4388)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1077.0,1162.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,1167.6195)
+:Sending Touch (ACTION_DOWN): 0:(420.0,743.0)
+:Sending Touch (ACTION_UP): 0:(421.1788,743.675)
+:Sending Touch (ACTION_DOWN): 0:(303.0,364.0)
+:Sending Touch (ACTION_UP): 0:(301.48727,372.0452)
+:Sending Touch (ACTION_DOWN): 0:(633.0,886.0)
+:Sending Touch (ACTION_UP): 0:(561.0803,811.71234)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(896.0,1217.0)
+:Sending Touch (ACTION_UP): 0:(840.36743,1177.6868)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+    //[calendar_time:2024-07-14 16:09:02.502  system_uptime:2630474]
+    // Sending event #700
+    //[calendar_time:2024-07-14 16:09:02.653  system_uptime:2630626]
+    // Sending event #700
+:Sending Touch (ACTION_DOWN): 0:(824.0,1380.0)
+:Sending Touch (ACTION_UP): 0:(839.00073,1364.5759)
+:Sending Touch (ACTION_DOWN): 0:(663.0,1371.0)
+:Sending Touch (ACTION_UP): 0:(663.0766,1370.0881)
+:Sending Touch (ACTION_DOWN): 0:(78.0,1295.0)
+:Sending Touch (ACTION_UP): 0:(63.897964,1292.33)
+:Sending Touch (ACTION_DOWN): 0:(210.0,943.0)
+:Sending Touch (ACTION_UP): 0:(208.54062,936.8714)
+:Sending Touch (ACTION_DOWN): 0:(657.0,1702.0)
+:Sending Touch (ACTION_UP): 0:(664.85846,1683.322)
+:Sending Touch (ACTION_DOWN): 0:(961.0,173.0)
+:Sending Touch (ACTION_UP): 0:(957.7756,185.9202)
+:Sending Touch (ACTION_DOWN): 0:(200.0,441.0)
+:Sending Touch (ACTION_UP): 0:(185.90027,436.29755)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(695.0,690.0)
+:Sending Touch (ACTION_UP): 0:(673.55304,691.43475)
+:Sending Touch (ACTION_DOWN): 0:(369.0,1091.0)
+:Sending Touch (ACTION_UP): 0:(379.87814,1074.828)
+:Sending Touch (ACTION_DOWN): 0:(89.0,46.0)
+:Sending Touch (ACTION_UP): 0:(82.49576,44.64526)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+    //[calendar_time:2024-07-14 16:09:07.862  system_uptime:2635835]
+    // Sending event #800
+    //[calendar_time:2024-07-14 16:09:08.014  system_uptime:2635987]
+    // Sending event #800
+:Sending Touch (ACTION_DOWN): 0:(522.0,362.0)
+:Sending Touch (ACTION_UP): 0:(535.9768,373.8511)
+:Sending Touch (ACTION_DOWN): 0:(829.0,754.0)
+:Sending Touch (ACTION_UP): 0:(858.1185,732.4785)
+:Sending Touch (ACTION_DOWN): 0:(1044.0,1351.0)
+:Sending Touch (ACTION_UP): 0:(1043.1259,1348.3616)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=zahleb.me/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=zahleb.me/.MainActivity } in package zahleb.me
+:Sending Touch (ACTION_DOWN): 0:(509.0,1346.0)
+:Sending Touch (ACTION_UP): 0:(552.7461,1324.7521)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(692.0,201.0)
+:Sending Touch (ACTION_UP): 0:(683.9201,198.76299)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=zahleb.me/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=zahleb.me/.MainActivity } in package zahleb.me
+:Sending Touch (ACTION_DOWN): 0:(909.0,1053.0)
+:Sending Touch (ACTION_UP): 0:(992.9055,1078.0363)
+:Sending Touch (ACTION_DOWN): 0:(496.0,1899.0)
+:Sending Touch (ACTION_UP): 0:(576.5502,1920.0)
+:Sending Touch (ACTION_DOWN): 0:(1073.0,628.0)
+:Sending Touch (ACTION_UP): 0:(1066.1794,630.34625)
+** Monkey aborted due to error.
+Events injected: 858
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=33598ms (0ms mobile, 0ms wifi, 33598ms not connected)
